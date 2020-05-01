@@ -1,3 +1,7 @@
+## What is This?
+
+This is purely just a sample app from Cory House over on PluralSight.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
