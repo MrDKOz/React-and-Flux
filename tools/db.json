@@ -1,1 +1,128 @@
-{"courses":[{"id":1,"title":"Securing React Apps with Auth0","slug":"react-auth0-authentication-security","authorId":1,"category":"JavaScript"},{"id":2,"title":"React: The Big Picture","slug":"react-big-picture","authorId":1,"category":"JavaScript"},{"id":3,"title":"Creating Reusable React Components","slug":"react-creating-reusable-components","authorId":1,"category":"JavaScript"},{"id":4,"title":"Building a JavaScript Development Environment","slug":"javascript-development-environment","authorId":1,"category":"JavaScript"},{"id":5,"title":"Building Applications with React and Redux","slug":"react-redux-react-router-es6","authorId":1,"category":"JavaScript"},{"id":6,"title":"Building Applications in React and Flux","slug":"react-flux-building-applications","authorId":1,"category":"JavaScript"},{"id":7,"title":"Clean Code: Writing Code for Humans","slug":"writing-clean-code-humans","authorId":1,"category":"Software Practices"},{"id":8,"title":"Architecting Applications for the Real World","slug":"architecting-applications-dotnet","authorId":1,"category":"Software Architecture"},{"id":9,"title":"Becoming an Outlier: Reprogramming the Developer Mind","slug":"career-reboot-for-developer-mind","authorId":1,"category":"Career"},{"id":10,"title":"Web Component Fundamentals","slug":"web-components-shadow-dom","authorId":1,"category":"HTML5"}],"authors":[{"id":1,"name":"Cory House"},{"id":2,"name":"Scott Allen"},{"id":3,"name":"Dan Wahlin"}]}
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Securing React Apps with Auth",
+      "slug": "react-auth0-authentication-security",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 2,
+      "title": "React: The Big Picture",
+      "slug": "react-big-picture",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "Creating Reusable React Components",
+      "slug": "react-creating-reusable-components",
+      "authorId": 2,
+      "category": "JavaScripts"
+    },
+    {
+      "id": 4,
+      "title": "Building a JavaScript Development Environment",
+      "slug": "javascript-development-environment",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 5,
+      "title": "Building Applications with React and Redux",
+      "slug": "react-redux-react-router-es6",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 6,
+      "title": "Building Applications in React and Flux",
+      "slug": "react-flux-building-applications",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 7,
+      "title": "Clean Code: Writing Code for Humans",
+      "slug": "writing-clean-code-humans",
+      "authorId": 1,
+      "category": "Software Practices"
+    },
+    {
+      "id": 8,
+      "title": "Architecting Applications for the Real World",
+      "slug": "architecting-applications-dotnet",
+      "authorId": 1,
+      "category": "Software Architecture"
+    },
+    {
+      "id": 9,
+      "title": "Becoming an Outlier: Reprogramming the Developer Mind",
+      "slug": "career-reboot-for-developer-mind",
+      "authorId": 1,
+      "category": "Career"
+    },
+    {
+      "id": 10,
+      "title": "Web Component Fundamentals",
+      "slug": "web-components-shadow-dom",
+      "authorId": 1,
+      "category": "HTML5"
+    },
+    {
+      "id": 11,
+      "slug": "hello",
+      "title": "Hello",
+      "authorId": 1,
+      "category": "This is a test",
+      "createdAt": 1588439657760
+    },
+    {
+      "id": 12,
+      "slug": "sdfsdf",
+      "title": "sdfsdf",
+      "authorId": 2,
+      "category": "sdfsdf",
+      "createdAt": 1588439770795
+    },
+    {
+      "id": 13,
+      "slug": "gggg",
+      "title": "gggg",
+      "authorId": 2,
+      "category": "gggggg",
+      "createdAt": 1588440068384
+    },
+    {
+      "id": 14,
+      "slug": "new-title",
+      "title": "New Title",
+      "authorId": 1,
+      "category": "Category",
+      "createdAt": 1588440970065
+    },
+    {
+      "id": 15,
+      "slug": "new-course-innit",
+      "title": "New Course Innit",
+      "authorId": 2,
+      "category": "C#",
+      "createdAt": 1588441611594
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
+  ]
+}
